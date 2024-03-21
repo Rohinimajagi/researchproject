@@ -1,2 +1,4 @@
 printf
 scanf
+hi
+hello
